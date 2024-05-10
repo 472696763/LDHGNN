@@ -6,8 +6,6 @@ Here, we provide a quick start guide on how to reproduce the results.
 
 ### Download the project and install the required dependencies.
 ```bash
-git clone https://github.com/LARS-research/CLGNN.git
-cd CLGNN
 pip install -r requirements.txt
 ```
 ### Run the Code
