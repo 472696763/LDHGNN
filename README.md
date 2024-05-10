@@ -1,5 +1,5 @@
 # Model
-Code for the technical report [Loss-aware Curriculum Learning for Heterogeneous Graph Neural Networks]. 
+Code for the technical report [Heterogeneous Graph Neural Networks with Loss-aware Curriculum Learning ]. 
 
 ## Quick Start 
 Here, we provide a quick start guide on how to reproduce the results.
